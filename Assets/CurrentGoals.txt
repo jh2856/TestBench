@@ -1,0 +1,37 @@
+Current Goals
+----------------------------------------------------------------
+x|- Not Completed
++|- Being Worked On
+o|- Completed
+----------------------------------------------------------------
+
+x|- Set up Player
+x|  |- Player Sprite
+x|  |- Basic Animations
+x|  |- Movement
+x|  |- Basic Abilities (Sprint, Jump, Roll, Attack)
+x|     |- Sprint
+x|     |- Jump
+x|     |- Roll
+x|     |- Attack
+x|- Set up Enemies
+x|  |- Melee Enemy
+x|  |- Ranged Enemy
+x|  |- Summons
+x|  |- Pathfinding
+x|- Set up Dev Area
+x|  |- Set up console commands
+x|     |- tp to dev room
+x|     |- Spawn Entity
+x|     |- Kill Entities
+x|  |- Set up scene with one large room with collisions
+x|- UI
+x|  |- Pause on Esc
+x|  |- Menu options
+x|     |- Close Game
+x|     |- Open Inventory
+x|  |- Inventory Menu (Generic for now)
+x|  |- Test items for testing inventory
+x|  |- Collect items off the ground
+x|  |- HUD
+x|     |- Player health
